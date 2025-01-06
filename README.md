@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MwangiKelvin1
-- 👀 I’m interested in Web development and cloud computing.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on some JavaScript projects.
+- 👋 Hi, I’m @MwangiKelvin
+- 👀 I’m interested in Cybersecurity and cloud computing.
+- 🌱 I’m currently learning Cybersecurity basics and Python.
+- 💞️ I’m looking to collaborate on some Cybersecurity projects.
 - 📫 How to reach me +254769464903
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
